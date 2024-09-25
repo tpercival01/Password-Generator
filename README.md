@@ -8,10 +8,11 @@ The passphrase will automatically generate two words (seperated by dashes) with 
 
 The app automatically copies to keyboard as soon as the "generate" button is pressed.
 
+(Soon to be made into its own downloadable app)
+
 ## Installation
 1. Clone the repo onto your device.
-2. Navigate to "password creator/dist/password_creator" and run the "password creator" terminal script.
-3. Use the app!
+2. Open visual studio code (or another IDE) and run the password_creator.py
 
 ### Prerequisites
 - Python 3.12
